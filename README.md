@@ -5,6 +5,6 @@
 <br/>
 - 🌱 I’m currently learning related concepts to web development 
 <br/>
-- maybe you want contact with me:
+- maybe you want contact me:
 <br/>
-- this is how: <p><u>sltanyh468@gmail.com</u></p>
+- this is how: <p>sltanyh468@gmail.com</p>
